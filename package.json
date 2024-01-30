@@ -9,7 +9,7 @@
         "release-it": "*"
     },
     "dependencies": {
-        "@plone/scripts": "^1.0.3",
+        "@plone/scripts": "^3.0.1",
         "react-cookie-consent": "^3.0.0"
     },
     "peerDependencies": {
